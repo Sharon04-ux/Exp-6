@@ -40,4 +40,4 @@ To study the problem statement and draw all the UML diagrams of Online Examinati
 
 
 # RESULT:
-Thus, the Online Examination System was created successfully.
+Thus, the Online Examination System was created successfullY
